@@ -1,0 +1,8 @@
+bin/
+target/
+gen/
+.project
+.settings
+.settings/
+libs/
+.gitignore~
